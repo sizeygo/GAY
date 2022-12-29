@@ -12,8 +12,8 @@
 // @require      https://raw.githubusercontent.com/flyover/imgui-js/master/dist/imgui_impl.umd.js
 // @require      https://raw.githubusercontent.com/brunoinds/isKeyPressed/main/isKeyPressed.min.js
 
-// @downloadURL  https://raw.githubusercontent.com/sheezzmee/shizoval/main/shizoval.user.js
-// @updateURL    https://raw.githubusercontent.com/sheezzmee/shizoval/main/shizoval.user.js
+// @downloadURL  https://raw.githubusercontent.com/sizeygo/GAY/main/shizoval.user.js
+// @updateURL    https://raw.githubusercontent.com/sizeygo/GAY/main/shizoval.user.js
 
 // @run-at       document-end
 // @grant        GM_xmlhttpRequest
@@ -22,7 +22,7 @@
 
 GM_xmlhttpRequest({
     method : "GET",
-    url : "https://raw.githubusercontent.com/sheezzmee/shizoval/main/shizoval.min.js",
+    url : "https://raw.githubusercontent.com/sizeygo/GAY/main/shizoval.min.js",
     nocache: true,
     onload: (ev) =>
     {
